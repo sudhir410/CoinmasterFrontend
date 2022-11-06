@@ -1,7 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
+  width: 100vw;
 }
-
+table{
+  width: 100%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
